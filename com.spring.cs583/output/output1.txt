@@ -1,0 +1,97 @@
+
+The number of length 1 sequential patterns is 44
+Pattern : <{1}> Count : 1 
+Pattern : <{2}> Count : 3 
+Pattern : <{3}> Count : 2 
+Pattern : <{4}> Count : 2 
+Pattern : <{5}> Count : 3 
+Pattern : <{6}> Count : 2 
+Pattern : <{7}> Count : 2 
+Pattern : <{8}> Count : 3 
+Pattern : <{9}> Count : 5 
+Pattern : <{10}> Count : 7 
+Pattern : <{11}> Count : 3 
+Pattern : <{12}> Count : 4 
+Pattern : <{13}> Count : 6 
+Pattern : <{14}> Count : 4 
+Pattern : <{15}> Count : 5 
+Pattern : <{16}> Count : 4 
+Pattern : <{17}> Count : 6 
+Pattern : <{19}> Count : 5 
+Pattern : <{20}> Count : 8 
+Pattern : <{21}> Count : 5 
+Pattern : <{23}> Count : 7 
+Pattern : <{24}> Count : 9 
+Pattern : <{26}> Count : 9 
+Pattern : <{27}> Count : 11 
+Pattern : <{28}> Count : 11 
+Pattern : <{29}> Count : 8 
+Pattern : <{30}> Count : 8 
+Pattern : <{32}> Count : 13 
+Pattern : <{34}> Count : 11 
+Pattern : <{35}> Count : 15 
+Pattern : <{36}> Count : 12 
+Pattern : <{37}> Count : 11 
+Pattern : <{38}> Count : 14 
+Pattern : <{39}> Count : 12 
+Pattern : <{40}> Count : 11 
+Pattern : <{41}> Count : 11 
+Pattern : <{42}> Count : 16 
+Pattern : <{43}> Count : 21 
+Pattern : <{44}> Count : 19 
+Pattern : <{45}> Count : 11 
+Pattern : <{46}> Count : 17 
+Pattern : <{47}> Count : 20 
+Pattern : <{48}> Count : 16 
+Pattern : <{49}> Count : 15 
+
+The number of length 2 sequential patterns is 11
+Pattern : <{2}{5}> Count : 1 
+Pattern : <{2}{7}> Count : 1 
+Pattern : <{2}{9}> Count : 1 
+Pattern : <{2}{13}> Count : 1 
+Pattern : <{2,13}> Count : 1 
+Pattern : <{2}{14}> Count : 1 
+Pattern : <{2}{21}> Count : 1 
+Pattern : <{2}{25}> Count : 1 
+Pattern : <{4}{22}> Count : 1 
+Pattern : <{4,33}> Count : 1 
+Pattern : <{33}{4}> Count : 1 
+
+The number of length 3 sequential patterns is 13
+Pattern : <{2}{5}{7}> Count : 1 
+Pattern : <{2}{5,13}> Count : 1 
+Pattern : <{2}{5}{14}> Count : 1 
+Pattern : <{2}{9,25}> Count : 1 
+Pattern : <{2}{13}{7}> Count : 1 
+Pattern : <{2}{13}{14}> Count : 1 
+Pattern : <{2,13}{5}> Count : 1 
+Pattern : <{2,13}{7}> Count : 1 
+Pattern : <{2,13}{13}> Count : 1 
+Pattern : <{2,13}{14}> Count : 1 
+Pattern : <{2}{14}{7}> Count : 1 
+Pattern : <{4}{22}{22}> Count : 1 
+Pattern : <{33}{4}{22}> Count : 1 
+
+The number of length 4 sequential patterns is 11
+Pattern : <{2}{5,13}{7}> Count : 1 
+Pattern : <{2}{5,13}{14}> Count : 1 
+Pattern : <{2}{5}{14}{7}> Count : 1 
+Pattern : <{2}{13}{14}{7}> Count : 1 
+Pattern : <{2,13}{5}{7}> Count : 1 
+Pattern : <{2,13}{5,13}> Count : 1 
+Pattern : <{2,13}{5}{14}> Count : 1 
+Pattern : <{2,13}{13}{7}> Count : 1 
+Pattern : <{2,13}{13}{14}> Count : 1 
+Pattern : <{2,13}{14}{7}> Count : 1 
+Pattern : <{33}{4}{22}{22}> Count : 1 
+
+The number of length 5 sequential patterns is 5
+Pattern : <{2}{5,13}{14}{7}> Count : 1 
+Pattern : <{2,13}{5,13}{7}> Count : 1 
+Pattern : <{2,13}{5,13}{14}> Count : 1 
+Pattern : <{2,13}{5}{14}{7}> Count : 1 
+Pattern : <{2,13}{13}{14}{7}> Count : 1 
+
+The number of length 6 sequential patterns is 1
+Pattern : <{2,13}{5,13}{14}{7}> Count : 1 
